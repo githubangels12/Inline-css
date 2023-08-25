@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartment Rental Application Form</title>
+</head>
+<body>
+    <thead>
+        <tr>
+            <th>Appartment name</th>
+            <th>Rent</th>
+            <th>start date</th>
+            <th>Agent Referred By</th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        <td>contact information</td>
+        <td>name</td>
+        <td>SSN</td>
+        <td>Start Date</td>
+    </tbody>
+
+    <tbody>
+        <tr>
+        <td>work Phone</td>
+        <td>.</td>
+        <td>Email</td>
+        <td>State</td>
+        <td>Zip</td>
+    </tr>
+    </tbody>
+
+    <tbody>
+        <td>Community Landlord Name and Address</td>
+        <td>Lanlord</td>
+        <td>date of residence</td>
+        <td>monthly rental rate</td>
+    </tbody>
+
+    <tbody>
+        <td>previous Residence</td>
+        <td>City</td>
+        <td>State</td>
+        <td>Zip</td>
+    </tbody>
+   <tr>
+        <th>Community Landlord Name and Address</th>
+        <th>Lndlords Phone</th>
+        <th>Date of Residence</th>
+        <th>Monthly rental Rate</th>
+    </tr>
+</thead>
+</body>
+</html>

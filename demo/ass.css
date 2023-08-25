@@ -1,0 +1,42 @@
+.green{
+    color: blue;
+}
+.esta{
+    color: brown;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.mom{
+    margin-top: 50;
+    color: chartreuse;
+}
+.Dad{
+    border: 1px solid;
+}
+
+.bed{
+    background-color: blue;
+}
+
+.bed1
+{
+    background-color: chocolate;
+    color: white;
+}
+
+
+.bed2
+{
+    background-color: chocolate;
+    color: white;
+    font-style: italic;
+}
+.lin{
+    border-left: 1px solid black;
+    
+}
+.man{
+    border: 20 solid
+    background-color: yellow;
+}
